@@ -1,0 +1,11 @@
+@import '_variables.scss';
+
+.quickpages-input {
+	width: 100%;
+	outline: none;
+	border: none;
+	background: darken($color-background, 3%);
+	padding: .5rem .75rem;
+	font-size: .875rem;
+	margin-bottom: .5rem;
+}
