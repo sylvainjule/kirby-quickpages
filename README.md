@@ -1,3 +1,5 @@
+> **Since Kirby 3.3.0, this feature is in Kirby's core**. This plugin is therefore obsolete.
+
 # Kirby Quickpages
 
 Quickly filter the Pages field's dialog.
